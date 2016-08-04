@@ -1,0 +1,42 @@
+_repo: Lavengro--The-Scholar-the-Gypsy-the-Priest_452
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Birrell, Augustine
+    birthdate: 1850
+    deathdate: &id001 1933
+    gutenberg_agent_id: '2413'
+    url: http://www.gutenberg.org/2009/agents/2413
+    wikipedia: http://en.wikipedia.org/wiki/Augustine_Birrell
+  illustrator:
+    agent_name: Sullivan, Edmund J. (Edmund Joseph)
+    alias: Sullivan, E. J. (Edmund Joseph)
+    birthdate: 1869
+    deathdate: *id001
+    gutenberg_agent_id: '8007'
+    url: http://www.gutenberg.org/2009/agents/8007
+creator:
+  author:
+    agent_name: Borrow, George
+    alias: Borrow, George Henry
+    birthdate: 1803
+    deathdate: 1881
+    gutenberg_agent_id: '4383'
+    url: http://www.gutenberg.org/2009/agents/4383
+    wikipedia: http://en.wikipedia.org/wiki/George_Borrow
+description: ''
+gutenberg_issued: '1996-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '452'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Romanies -- Fiction'
+- GITenberg
+title: 'Lavengro: The Scholar, the Gypsy, the Priest'
+url: http://www.gutenberg.org/ebooks/452
