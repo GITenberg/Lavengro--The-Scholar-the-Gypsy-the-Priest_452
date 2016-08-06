@@ -1,10 +1,10 @@
 _repo: Lavengro--The-Scholar-the-Gypsy-the-Priest_452
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Birrell, Augustine
     birthdate: 1850
-    deathdate: &id001 1933
+    deathdate: 1933
     gutenberg_agent_id: '2413'
     url: http://www.gutenberg.org/2009/agents/2413
     wikipedia: http://en.wikipedia.org/wiki/Augustine_Birrell
@@ -12,7 +12,7 @@ contributor:
     agent_name: Sullivan, Edmund J. (Edmund Joseph)
     alias: Sullivan, E. J. (Edmund Joseph)
     birthdate: 1869
-    deathdate: *id001
+    deathdate: 1933
     gutenberg_agent_id: '8007'
     url: http://www.gutenberg.org/2009/agents/8007
 creator:
